@@ -7,7 +7,7 @@ I'm not very good at javascript but even though I understand, that javascript is
 [<img align="left" alt="Git" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/git.png">][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][js]
-
+<br/><br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/javaScript-programming?color=yellow&label=Last%20Commit%3A&style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/javaScript-programming?color=yellow&label=Repo%20Size%3A&style=for-the-badge)
 ### Connect with me :  
